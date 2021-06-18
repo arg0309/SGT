@@ -146,11 +146,11 @@ nav {
 /* footer */
 .container-footer{
     width: 100%;
-    height: auto;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
-    margin: auto;
+    /* margin: auto; */
     display: flex;
     justify-content: center;
     background-color:#000000;
@@ -170,8 +170,8 @@ nav {
     padding-right: 1rem;
 }
 .container-footer .row3 .col-25{
-    width: 25%;
-    padding: auto;
+    width: 20%;
+    /* padding: auto; */
     margin: 10px;
     background-color: white;
 }
@@ -272,7 +272,7 @@ nav {
 }
 .container-footer .row4{
     /* background-color: #00AE48; */
-    width: auto;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: center;
